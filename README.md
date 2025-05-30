@@ -24,6 +24,6 @@ Para que el programa funcione correctamente, deben estar disponibles los siguien
 
 votantes.csv: contiene los datos de los votantes con columnas como cedula, salon, mesa, etc.
 
-resultados.csv o resultados.json: contiene los resultados por mesa con respuestas a las preguntas.
+resultados.csv: contiene los resultados por mesa con respuestas a las preguntas.
 
 Los datos de jurados y su estructura se guardan automáticamente en un archivo JSON desde el programa.
